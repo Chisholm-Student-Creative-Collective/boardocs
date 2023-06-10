@@ -15,8 +15,10 @@ export default defineConfig({
           label: 'Onboarding',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Become a Collective Member', link: '/onboarding/join/' },
+            { label: 'Getting Started', link: '/onboarding/join/' },
             { label: 'Code of Conduct', link: '/onboarding/coc/' },
+            { label: 'Member & Associate Roles', link: '/onboarding/roles/' },
+            { label: 'Canary Program', link: '/onboarding/canary/' },
           ],
         },
         {
