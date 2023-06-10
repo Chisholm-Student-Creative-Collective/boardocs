@@ -2,6 +2,7 @@
 title: Collective Code of Conduct
 description: This code of conduct is enforceable to all members in the community, whether they are collective members, associates or followers.
 ---
+!["A street sign with a crossing symbol."](../../../assets/guide_sign.png)
 This code of conduct is enforceable to all members in the community, whether they are collective members, associates or followers. By participating in our community, you agree to abide by this code of conduct. The Chisholm Student Creative Collective has adopted the [Contributor's Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
 ## Our Pledge
