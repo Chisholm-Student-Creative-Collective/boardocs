@@ -8,20 +8,26 @@ export default defineConfig({
       title: 'CSCC',
       social: {
         github: 'https://github.com/Chisholm-Student-Creative-Collective',
+        discord: 'https://discord.gg/PWSA95E',
       },
       sidebar: [
         {
-          label: 'Guides',
+          label: 'Onboarding',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Example Guide', link: '/guides/example/' },
+            { label: 'Become a Collective Member', link: '/onboarding/join/' },
+            { label: 'Code of Conduct', link: '/onboarding/coc/' },
           ],
         },
         {
-          label: 'Reference',
-          autogenerate: { directory: 'reference' },
+          label: 'Our Projects',
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: 'Dorian\'s Scrapbook Theatre', link: '/projects/test' },
+          ],
         },
       ],
+      customCss: ['/src/master.css'],
     }),
   ],
 });
