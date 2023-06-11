@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://boar.canned.dev/',
+  //base: '/boardocs',
   integrations: [
     starlight({
       title: 'CSCC',
