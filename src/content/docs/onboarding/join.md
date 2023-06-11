@@ -24,3 +24,6 @@ If you're looking to connect with local Chisholm College residents, particularly
 **Our collective does not currently run with the intention to make money**, and any and all work that's exclusively done within the collective will likely go **unpaid**.
 :::
 You are more than welcome to use this collective as a way to find teammates who can then go on to make a project that intends to make money, though!
+
+## I wanna join! Now what?
+Head on over to the next page to read the Code of Conduct, and if you agree, head on over to the page after that! 
