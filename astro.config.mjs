@@ -27,9 +27,17 @@ export default defineConfig({
           label: 'Our Projects',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Dorian\'s Scrapbook Theatre', link: '/projects/test' },
+            { label: 'Projects Directory', link: '/projects/' },
+            //{ label: 'Dorian\'s Scrapbook Theatre', link: '/projects/scrapbook_theatre/' },
           ],
         },
+        /*{
+          label: 'Equipment',
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: 'Super 8 Camera', link: '/projects/test' },
+          ],
+        },*/
       ],
       customCss: ['/src/master.css'],
     }),

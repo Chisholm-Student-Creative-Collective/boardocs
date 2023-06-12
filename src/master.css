@@ -3,3 +3,7 @@
 body {
     font-family: 'Poppins';
 }
+
+.site-title {
+    color: rgb(255,66,66)
+}
